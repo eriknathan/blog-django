@@ -1,2 +1,2 @@
 # blog-django
-Projeto de um Blog criando em Django 
+Projeto de um Blog criando em Django
